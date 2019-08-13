@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/BalkeTechnologies_StoreMaintenance",
+    "type": "magento-module",
+    "license": "Apache-License,-Version-2.0",
+    "homepage": "",
+    "description": "StoreMaintenance allows you to put each storeview separately into maintenance mode",
+    "authors": [
+    {
+        "name": "Matthias Balke",
+        "email": "magento@balke-technologies.de"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
